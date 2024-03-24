@@ -1,0 +1,14 @@
+h1 { 
+  font-size: 2rem;
+  padding: 0.4em;
+  background: rgb(243, 150, 150);
+  border: 0.8px solid rgb(0, 0, 14);
+  width: 55%
+}
+body {
+  
+  background: pink;
+  color: rgb(0, 0, 0)
+  
+}
+
